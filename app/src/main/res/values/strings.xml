@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">EAD project</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="rememberme">Remember Me</string>
+    <string name="forgotpassword">Forgot Password</string>
+
+    <string-array name="role">
+        <item>Choose</item>
+        <item>User</item>
+        <item>Owner</item>
+    </string-array>
+
+    <string-array name="vehicleType">
+        <item>Choose</item>
+        <item>Car</item>
+        <item>Van</item>
+        <item>Bus</item>
+        <item>Motor Bicycle</item>
+        <item>Three Wheeler</item>
+    </string-array>
+
+    <string-array name="fuelType">
+        <item>Choose</item>
+        <item>Petrol</item>
+        <item>Diesel</item>
+        <item>Super Diesel</item>
+    </string-array>
+
+    <string-array name="finishType">
+        <item>Choose</item>
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+    <string-array name="cityType">
+        <item>Choose</item>
+        <item>Colombo</item>
+        <item>Moratuwa</item>
+        <item>Kandy</item>
+        <item>Negombo</item>
+        <item>Batticaloa</item>
+        <item>Sri Jayewardenepura Kotte</item>
+        <item>Kilinochchi</item>
+        <item>Galle</item>
+        <item>Trincomalee</item>
+        <item>Jaffna</item>
+        <item>Matara</item>
+        <item>Anuradhapura</item>
+        <item>Ratnapura</item>
+        <item>Badulla</item>
+        <item>Mullaittivu</item>
+        <item>Matale</item>
+        <item>Mannar</item>
+        <item>Kurunegala</item>
+    </string-array>
+
+</resources>
+
+
+
+
